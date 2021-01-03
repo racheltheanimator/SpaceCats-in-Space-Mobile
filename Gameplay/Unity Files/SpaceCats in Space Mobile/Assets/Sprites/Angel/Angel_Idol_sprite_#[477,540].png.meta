@@ -1,0 +1,1246 @@
+fileFormatVersion: 2
+guid: 4f05bca7a36454c259677aecdb6f64d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8975450606965756003
+    second: Angel_Idol_sprite_#[477,540]_0
+  - first:
+      213: 6534108521273807810
+    second: Angel_Idol_sprite_#[477,540]_1
+  - first:
+      213: 1436688963177293192
+    second: Angel_Idol_sprite_#[477,540]_2
+  - first:
+      213: 3018246893653084536
+    second: Angel_Idol_sprite_#[477,540]_3
+  - first:
+      213: -2799941293893782795
+    second: Angel_Idol_sprite_#[477,540]_4
+  - first:
+      213: -1423894704376529616
+    second: Angel_Idol_sprite_#[477,540]_5
+  - first:
+      213: -6257309066806363387
+    second: Angel_Idol_sprite_#[477,540]_6
+  - first:
+      213: -8933155049798326658
+    second: Angel_Idol_sprite_#[477,540]_7
+  - first:
+      213: 4222457869467610771
+    second: Angel_Idol_sprite_#[477,540]_8
+  - first:
+      213: -4313661243398448144
+    second: Angel_Idol_sprite_#[477,540]_9
+  - first:
+      213: 6484158163125436666
+    second: Angel_Idol_sprite_#[477,540]_10
+  - first:
+      213: 559951815812502258
+    second: Angel_Idol_sprite_#[477,540]_11
+  - first:
+      213: 6062842118559654490
+    second: Angel_Idol_sprite_#[477,540]_12
+  - first:
+      213: -3351166463838105317
+    second: Angel_Idol_sprite_#[477,540]_13
+  - first:
+      213: 1975800291553640912
+    second: Angel_Idol_sprite_#[477,540]_14
+  - first:
+      213: 5081889656031435754
+    second: Angel_Idol_sprite_#[477,540]_15
+  - first:
+      213: -8907157809647612109
+    second: Angel_Idol_sprite_#[477,540]_16
+  - first:
+      213: 7305781457051544787
+    second: Angel_Idol_sprite_#[477,540]_17
+  - first:
+      213: 336251576234356477
+    second: Angel_Idol_sprite_#[477,540]_18
+  - first:
+      213: 6221406274724075959
+    second: Angel_Idol_sprite_#[477,540]_19
+  - first:
+      213: -9055118214649539890
+    second: Angel_Idol_sprite_#[477,540]_20
+  - first:
+      213: -6391364316009355382
+    second: Angel_Idol_sprite_#[477,540]_21
+  - first:
+      213: 7134677516909640915
+    second: Angel_Idol_sprite_#[477,540]_22
+  - first:
+      213: -2722206869274742892
+    second: Angel_Idol_sprite_#[477,540]_23
+  - first:
+      213: 4647914648301306722
+    second: Angel_Idol_sprite_#[477,540]_24
+  - first:
+      213: -2735694223173531299
+    second: Angel_Idol_sprite_#[477,540]_25
+  - first:
+      213: 3750700421802224161
+    second: Angel_Idol_sprite_#[477,540]_26
+  - first:
+      213: 5604927422052110910
+    second: Angel_Idol_sprite_#[477,540]_27
+  - first:
+      213: -1509146831602016900
+    second: Angel_Idol_sprite_#[477,540]_28
+  - first:
+      213: -4933460588817688474
+    second: Angel_Idol_sprite_#[477,540]_29
+  - first:
+      213: -8603516609919667415
+    second: Angel_Idol_sprite_#[477,540]_30
+  - first:
+      213: 8846004017332507702
+    second: Angel_Idol_sprite_#[477,540]_31
+  - first:
+      213: 3106553138263204274
+    second: Angel_Idol_sprite_#[477,540]_32
+  - first:
+      213: -4007613623523652023
+    second: Angel_Idol_sprite_#[477,540]_33
+  - first:
+      213: -7621257181392174065
+    second: Angel_Idol_sprite_#[477,540]_34
+  - first:
+      213: 5883903160165354833
+    second: Angel_Idol_sprite_#[477,540]_35
+  - first:
+      213: 5275375476222902082
+    second: Angel_Idol_sprite_#[477,540]_36
+  - first:
+      213: 7218753889900352811
+    second: Angel_Idol_sprite_#[477,540]_37
+  - first:
+      213: 3190322830076913610
+    second: Angel_Idol_sprite_#[477,540]_38
+  - first:
+      213: 5859999771141157864
+    second: Angel_Idol_sprite_#[477,540]_39
+  - first:
+      213: -7583297437019685640
+    second: Angel_Idol_sprite_#[477,540]_40
+  - first:
+      213: 4091082753254411257
+    second: Angel_Idol_sprite_#[477,540]_41
+  - first:
+      213: -6823058230827257231
+    second: Angel_Idol_sprite_#[477,540]_42
+  - first:
+      213: -7694776305191347097
+    second: Angel_Idol_sprite_#[477,540]_43
+  - first:
+      213: -1565257851178723188
+    second: Angel_Idol_sprite_#[477,540]_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3780
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fedb81a3bc07380800000000000000
+      internalID: -8975450606965756003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_1
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 3780
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3d066b411ddaa50800000000000000
+      internalID: 6534108521273807810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_2
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 3780
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88528e6000520f310800000000000000
+      internalID: 1436688963177293192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_3
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 3780
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8794e94fe87f2e920800000000000000
+      internalID: 3018246893653084536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_4
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 3780
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f273895a3c9429d0800000000000000
+      internalID: -2799941293893782795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_5
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 3780
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03db31c7f4f4d3ce0800000000000000
+      internalID: -1423894704376529616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bfc2f6e829929a0800000000000000
+      internalID: -6257309066806363387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_7
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 3240
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76a845efce070480800000000000000
+      internalID: -8933155049798326658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_8
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 3240
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e6bac8f0f299a30800000000000000
+      internalID: 4222457869467610771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_9
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 3240
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb9dd134fbc224c0800000000000000
+      internalID: -4313661243398448144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_10
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 3240
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af08a8cae7b5cf950800000000000000
+      internalID: 6484158163125436666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_11
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 3240
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2d6d0b53955c700800000000000000
+      internalID: 559951815812502258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a526606d8ca832450800000000000000
+      internalID: 6062842118559654490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_13
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 2700
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b115abb3bd34e71d0800000000000000
+      internalID: -3351166463838105317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_14
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 2700
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d10b2d95e37b6b10800000000000000
+      internalID: 1975800291553640912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_15
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 2700
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb5c7797bf768640800000000000000
+      internalID: 5081889656031435754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_16
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 2700
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f8b9d0a2b636480800000000000000
+      internalID: -8907157809647612109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_17
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 2700
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc613a0789536560800000000000000
+      internalID: 7305781457051544787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe2d9ce60b9aa400800000000000000
+      internalID: 336251576234356477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_19
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 2160
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b990506b00e65650800000000000000
+      internalID: 6221406274724075959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_20
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 2160
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec215a8b5f1c55280800000000000000
+      internalID: -9055118214649539890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_21
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 2160
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87a72a74005d47a0800000000000000
+      internalID: -6391364316009355382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_22
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 2160
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc7d568667730360800000000000000
+      internalID: 7134677516909640915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_23
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 2160
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f20c77647c83ad0800000000000000
+      internalID: -2722206869274742892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26385563fb5b08040800000000000000
+      internalID: 4647914648301306722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_25
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1620
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5947ad299cd80ad0800000000000000
+      internalID: -2735694223173531299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_26
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1620
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12aed6c592a2d0430800000000000000
+      internalID: 3750700421802224161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_27
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1620
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32134f4bc3b8cd40800000000000000
+      internalID: 5604927422052110910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_28
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1620
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d9474d3fe6e0be0800000000000000
+      internalID: -1509146831602016900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_29
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 1620
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668d12aabb3d88bb0800000000000000
+      internalID: -4933460588817688474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923b0960a3b2a9880800000000000000
+      internalID: -8603516609919667415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_31
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1080
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63458ce19c153ca70800000000000000
+      internalID: 8846004017332507702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_32
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1080
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1ad0abe91bc1b20800000000000000
+      internalID: 3106553138263204274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_33
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1080
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e4bd484a81268c0800000000000000
+      internalID: -4007613623523652023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_34
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1080
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04893109fadb3690800000000000000
+      internalID: -7621257181392174065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_35
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 1080
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d447affb2d7a150800000000000000
+      internalID: 5883903160165354833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fb215ab06e53940800000000000000
+      internalID: 5275375476222902082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_37
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 540
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25da709a6a2e2460800000000000000
+      internalID: 7218753889900352811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_38
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 540
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7ad8df5bd464c20800000000000000
+      internalID: 3190322830076913610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_39
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 540
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e33db68eb6e25150800000000000000
+      internalID: 5859999771141157864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_40
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 540
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcbf48b827b2c690800000000000000
+      internalID: -7583297437019685640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_41
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 540
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbc47ea61276c830800000000000000
+      internalID: 4091082753254411257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1727cbd60b0af41a0800000000000000
+      internalID: -6823058230827257231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_43
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 0
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c1af618b9a63590800000000000000
+      internalID: -7694776305191347097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Idol_sprite_#[477,540]_44
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 0
+        width: 477
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88d9960746174ae0800000000000000
+      internalID: -1565257851178723188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

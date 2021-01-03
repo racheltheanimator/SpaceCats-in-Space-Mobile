@@ -1,0 +1,1 @@
+  9/2/20 7:35:45 PM EDT: Starting composition “Angel_Idol_02”.  Output To: /Users/rachellewis/Documents/SpaceCats in Space/Gameplay/Exports for Unity/Character Sprites/Angel/Images/Angel_Idol_02_[#####].png    9/2/20 7:35:46 PM EDT: Finished composition “Angel_Idol_02”.  Total Time Elapsed: 1 SecondsLog closed on 9/2/20 at 7:35:46 PM EDT

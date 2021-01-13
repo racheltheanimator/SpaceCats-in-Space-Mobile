@@ -1802,7 +1802,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxSpeed: 5
-  myRB: {fileID: 147176556}
 --- !u!1 &166799958
 GameObject:
   m_ObjectHideFlags: 0

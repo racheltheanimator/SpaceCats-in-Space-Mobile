@@ -32,11 +32,7 @@ public class PlayerController : MonoBehaviour
 
         myRB.velocity = new Vector2(x, y)*maxSpeed; }
 
-       
-
-
-
- 
+    
 
 
 }

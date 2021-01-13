@@ -14,6 +14,13 @@ public class PlayerController : MonoBehaviour
     Vector2 movement;
 
 
+    // For shooting
+
+    public Transform gunTip;
+    public GameObject bullet;
+    float fireRate = 0.5f;
+    float nextFire = 0f;
+
 
     // Use this for initialization
 
@@ -23,7 +30,20 @@ public class PlayerController : MonoBehaviour
 
     }
 
-    // Update is called once per frame, FixedUpdate is always called at a speciffic time
+
+    // Update is called once per frame
+
+    void Update ()
+    {
+        //player shooting
+
+        if (Input.GetAxis("Fire1")>0) fireGun();
+    }
+
+
+
+
+    // FixedUpdate is always called at a speciffic time
 
     void FixedUpdate()
     {
@@ -33,6 +53,14 @@ public class PlayerController : MonoBehaviour
         myRB.velocity = new Vector2(x, y)*maxSpeed; }
 
     
+
+    void fireGun()
+    {
+        if(Time.time > nextFire)
+        {
+            nextFire = Time.time + fireRate; 
+        }
+    }
 
 
 }

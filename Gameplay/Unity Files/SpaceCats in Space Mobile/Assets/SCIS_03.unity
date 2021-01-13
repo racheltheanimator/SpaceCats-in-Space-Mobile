@@ -1801,7 +1801,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70f6df252440d4f2e8af23eb4210e100, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxSpeed: 5
+  maxSpeed: 7
+  gunTip: {fileID: 166799959}
+  bullet: {fileID: 5020047771547501891, guid: ec58d10f4ccf0485d965e03fd1d4d621, type: 3}
 --- !u!1 &166799958
 GameObject:
   m_ObjectHideFlags: 0

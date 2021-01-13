@@ -4,24 +4,27 @@ using UnityEngine;
 
 public class AngelGunshotProjectileCotroller : MonoBehaviour
 {
-    public float gunshotSpeed;
 
-    Rigidbody2D myRB;
+    // setting gunshot speed
+
+    public float gunshotSpeed = 20f;
+
+    // setting Rigidbody2D and naming it myRB
+
+    public Rigidbody2D myRB;
 
 
     // Start is called before the first frame update
-    void Awake()
+
+    void Start()
     {
-        myRB = GetComponent<Rigidbody2D>();
 
-        myRB.AddForce(new Vector2(1,0) * gunshotSpeed, ForceMode2D.Impulse);
+        // the velocity of myRB = transform to the right x gunshot speed
 
+        myRB.velocity = transform.right * gunshotSpeed;
 
+      
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+   
 }

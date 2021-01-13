@@ -14,14 +14,6 @@ public class PlayerController : MonoBehaviour
     Vector2 movement;
 
 
-    // For shooting
-
-    public Transform gunTip;
-    public GameObject bullet;
-    float fireRate = 0.5f;
-    float nextFire = 0f;
-
-
     // Use this for initialization
 
     void Start()
@@ -45,6 +37,9 @@ public class PlayerController : MonoBehaviour
 
     void FixedUpdate()
     {
+
+        // Angel movement, rigidbody velocity is movement vector for x and y x maxspeed
+
         float x = Input.GetAxis("Horizontal");
         float y = Input.GetAxis("Vertical");
 

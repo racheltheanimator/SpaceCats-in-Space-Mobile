@@ -196,7 +196,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7045fecd064214a55939e6b1cd9e7c1f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gunshotSpeed: 10
+  gunshotSpeed: 15
+  myRB: {fileID: 5020047771547501892}
 --- !u!114 &5020047771547501895
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -209,4 +210,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e074f6f68ba44f19dfe4892b1074e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  aliveTime: 3
+  aliveTime: 2

@@ -35,9 +35,7 @@ public class PlayerController : MonoBehaviour
 
     void Update ()
     {
-        //player shooting
-
-        if (Input.GetAxis("Fire1")>0) fireGun();
+     
     }
 
 
@@ -53,14 +51,6 @@ public class PlayerController : MonoBehaviour
         myRB.velocity = new Vector2(x, y)*maxSpeed; }
 
     
-
-    void fireGun()
-    {
-        if(Time.time > nextFire)
-        {
-            nextFire = Time.time + fireRate; 
-        }
-    }
 
 
 }

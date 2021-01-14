@@ -20,6 +20,8 @@ public class cameraFollowCharacter : MonoBehaviour
 
     float lowY;
 
+    float highY;
+
 
 
     // Start is called before the first frame update
@@ -30,7 +32,7 @@ public class cameraFollowCharacter : MonoBehaviour
 
         lowY = transform.position.y;
 
-
+        highY = transform.position.y;
 
 
     }
@@ -53,6 +55,8 @@ public class cameraFollowCharacter : MonoBehaviour
         // telling camera to not go down too far off screen
 
         if (transform.position.y < lowY) transform.position = new Vector3 (transform.position.x, lowY, transform.position.z);
+
+        if (transform.position.y > highY) transform.position = new Vector3(transform.position.x, highY, transform.position.z);
 
     }
 }

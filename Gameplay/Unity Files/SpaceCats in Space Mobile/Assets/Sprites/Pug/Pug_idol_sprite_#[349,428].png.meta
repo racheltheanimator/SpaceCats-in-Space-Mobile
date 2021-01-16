@@ -1,7 +1,142 @@
 fileFormatVersion: 2
 guid: af12bf58c40f54be091f6c466cb5cf05
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -8197093900003257220
+    second: Pug_idol_sprite_#[349,428]_0
+  - first:
+      213: 1047053929435566535
+    second: Pug_idol_sprite_#[349,428]_1
+  - first:
+      213: 6721648017839461416
+    second: Pug_idol_sprite_#[349,428]_2
+  - first:
+      213: 9024560365890232560
+    second: Pug_idol_sprite_#[349,428]_3
+  - first:
+      213: 5163300131780893056
+    second: Pug_idol_sprite_#[349,428]_4
+  - first:
+      213: 8119249074819981749
+    second: Pug_idol_sprite_#[349,428]_5
+  - first:
+      213: -7704960836841448909
+    second: Pug_idol_sprite_#[349,428]_6
+  - first:
+      213: -5320832721578509255
+    second: Pug_idol_sprite_#[349,428]_7
+  - first:
+      213: -5851380626763217997
+    second: Pug_idol_sprite_#[349,428]_8
+  - first:
+      213: 1826829043648440379
+    second: Pug_idol_sprite_#[349,428]_9
+  - first:
+      213: -5957293725907958303
+    second: Pug_idol_sprite_#[349,428]_10
+  - first:
+      213: -6881797210196158958
+    second: Pug_idol_sprite_#[349,428]_11
+  - first:
+      213: 7105123084551488549
+    second: Pug_idol_sprite_#[349,428]_12
+  - first:
+      213: -49410351850848610
+    second: Pug_idol_sprite_#[349,428]_13
+  - first:
+      213: 895353092708364154
+    second: Pug_idol_sprite_#[349,428]_14
+  - first:
+      213: 4145094597716346158
+    second: Pug_idol_sprite_#[349,428]_15
+  - first:
+      213: -8523504232683007222
+    second: Pug_idol_sprite_#[349,428]_16
+  - first:
+      213: -7977244614327452707
+    second: Pug_idol_sprite_#[349,428]_17
+  - first:
+      213: 5219255764069012822
+    second: Pug_idol_sprite_#[349,428]_18
+  - first:
+      213: -5900184836830280901
+    second: Pug_idol_sprite_#[349,428]_19
+  - first:
+      213: 565716425330646064
+    second: Pug_idol_sprite_#[349,428]_20
+  - first:
+      213: 4398717873528643757
+    second: Pug_idol_sprite_#[349,428]_21
+  - first:
+      213: -5477247795852790955
+    second: Pug_idol_sprite_#[349,428]_22
+  - first:
+      213: 2076261567761983033
+    second: Pug_idol_sprite_#[349,428]_23
+  - first:
+      213: 4954955698626494148
+    second: Pug_idol_sprite_#[349,428]_24
+  - first:
+      213: -56125820669074795
+    second: Pug_idol_sprite_#[349,428]_25
+  - first:
+      213: -4755874616727243092
+    second: Pug_idol_sprite_#[349,428]_26
+  - first:
+      213: -7580534691873255332
+    second: Pug_idol_sprite_#[349,428]_27
+  - first:
+      213: -1426630092415838017
+    second: Pug_idol_sprite_#[349,428]_28
+  - first:
+      213: 9020257755490150725
+    second: Pug_idol_sprite_#[349,428]_29
+  - first:
+      213: 8670084474259332544
+    second: Pug_idol_sprite_#[349,428]_30
+  - first:
+      213: 790729730273221805
+    second: Pug_idol_sprite_#[349,428]_31
+  - first:
+      213: -3737147466566505175
+    second: Pug_idol_sprite_#[349,428]_32
+  - first:
+      213: -5762447825576890835
+    second: Pug_idol_sprite_#[349,428]_33
+  - first:
+      213: 1502821987387305444
+    second: Pug_idol_sprite_#[349,428]_34
+  - first:
+      213: -695222680618080018
+    second: Pug_idol_sprite_#[349,428]_35
+  - first:
+      213: -1488229001395806501
+    second: Pug_idol_sprite_#[349,428]_36
+  - first:
+      213: 2989548821855936050
+    second: Pug_idol_sprite_#[349,428]_37
+  - first:
+      213: -6961542267847424429
+    second: Pug_idol_sprite_#[349,428]_38
+  - first:
+      213: 7257947020401322560
+    second: Pug_idol_sprite_#[349,428]_39
+  - first:
+      213: 8625644282201045614
+    second: Pug_idol_sprite_#[349,428]_40
+  - first:
+      213: -6120442886257434423
+    second: Pug_idol_sprite_#[349,428]_41
+  - first:
+      213: 1867513094569008696
+    second: Pug_idol_sprite_#[349,428]_42
+  - first:
+      213: 8661396343556486653
+    second: Pug_idol_sprite_#[349,428]_43
+  - first:
+      213: 3387322697904450778
+    second: Pug_idol_sprite_#[349,428]_44
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +167,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -41,7 +176,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -63,7 +198,79 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -75,7 +282,952 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2996
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74d8cb27821e3e80800000000000000
+      internalID: -8197093900003257220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_1
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 2996
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c11fa45002e78e00800000000000000
+      internalID: 1047053929435566535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_2
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2996
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82497886247184d50800000000000000
+      internalID: 6721648017839461416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_3
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 2996
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0e4fea6ddad3d70800000000000000
+      internalID: 9024560365890232560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_4
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 2996
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089178f0d1ab7a740800000000000000
+      internalID: 5163300131780893056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_5
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 2996
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b16093140e5da070800000000000000
+      internalID: 8119249074819981749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2568
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ad4c701fa721590800000000000000
+      internalID: -7704960836841448909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 2568
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cb909a4da9826b0800000000000000
+      internalID: -5320832721578509255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_8
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2568
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b30d286258bbcea0800000000000000
+      internalID: -5851380626763217997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_9
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 2568
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38280416533a5910800000000000000
+      internalID: 1826829043648440379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_10
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 2568
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5c79c5be0735da0800000000000000
+      internalID: -5957293725907958303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_11
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 2568
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216dbfd06e1fe70a0800000000000000
+      internalID: -6881797210196158958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2140
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5248e140dc77a9260800000000000000
+      internalID: 7105123084551488549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_13
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 2140
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ef3b9fb85705ff0800000000000000
+      internalID: -49410351850848610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_14
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2140
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fed6fd4eeec6c00800000000000000
+      internalID: 895353092708364154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_15
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 2140
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2506413395568930800000000000000
+      internalID: 4145094597716346158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_16
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 2140
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0314615f0e66b980800000000000000
+      internalID: -8523504232683007222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_17
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 2140
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb3d9cd9422b4190800000000000000
+      internalID: -7977244614327452707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1712
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6555e31f6758e6840800000000000000
+      internalID: 5219255764069012822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_19
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1712
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33c593c6255e1ea0800000000000000
+      internalID: -5900184836830280901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_20
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1712
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cdf6f6714d9d700800000000000000
+      internalID: 565716425330646064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_21
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1712
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da026deb9926b0d30800000000000000
+      internalID: 4398717873528643757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_22
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1712
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553376d3628ecf3b0800000000000000
+      internalID: -5477247795852790955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_23
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1712
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936af3735ec50dc10800000000000000
+      internalID: 2076261567761983033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1284
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cefd6694f983c440800000000000000
+      internalID: 4954955698626494148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_25
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1284
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592ea4c0dd9983ff0800000000000000
+      internalID: -56125820669074795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_26
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1284
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6fca9db3dbffdb0800000000000000
+      internalID: -4755874616727243092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_27
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1284
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c509e537cd78cc690800000000000000
+      internalID: -7580534691873255332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_28
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1284
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8dba35d77933ce0800000000000000
+      internalID: -1426630092415838017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_29
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1284
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549e37223a46e2d70800000000000000
+      internalID: 9020257755490150725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 856
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd5bdca4e3525870800000000000000
+      internalID: 8670084474259332544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_31
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 856
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac964e008c39fa00800000000000000
+      internalID: 790729730273221805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_32
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 856
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d6d0eed2cf22cc0800000000000000
+      internalID: -3737147466566505175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_33
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 856
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e64cfbb3ca700b0800000000000000
+      internalID: -5762447825576890835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_34
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 856
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ededde92a81bd410800000000000000
+      internalID: 1502821987387305444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_35
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 856
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8e6f9c7a21a56f0800000000000000
+      internalID: -695222680618080018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde5e53bb9fb85be0800000000000000
+      internalID: -1488229001395806501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_37
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 428
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e196d60d20d7920800000000000000
+      internalID: 2989548821855936050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_38
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 428
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3564614f032a36f90800000000000000
+      internalID: -6961542267847424429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_39
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 428
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a20ad5c5869b460800000000000000
+      internalID: 7257947020401322560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_40
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 428
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6af87726c174b770800000000000000
+      internalID: 8625644282201045614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_41
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 428
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c02f885f91df0ba0800000000000000
+      internalID: -6120442886257434423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e1d27d34dbae910800000000000000
+      internalID: 1867513094569008696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_43
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 0
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df53d8c9516733870800000000000000
+      internalID: 8661396343556486653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pug_idol_sprite_#[349,428]_44
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 0
+        width: 349
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc66340c00320f20800000000000000
+      internalID: 3387322697904450778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

@@ -11,11 +11,11 @@ public class AngelGunshotHit : MonoBehaviour
 
     // calling the projectile controlller script myPC
 
-    AngelGunshotProjectileController myPC;
+    AngelGunshotProjectileCotroller myPC;
 
     // the angel gunshot hit particle prefab
 
-    public GameObject GunshotHit;
+    public GameObject AngelGunshotHitPrefab;
 
 
 
@@ -27,7 +27,7 @@ public class AngelGunshotHit : MonoBehaviour
         //get the script from the current object called AngelGunshotProjectileController
 
 
-        myPC = GetComponent<AngelGunshotProjectileController>();
+        myPC = GetComponent<AngelGunshotProjectileCotroller>();
 
     }
 
@@ -50,11 +50,11 @@ public class AngelGunshotHit : MonoBehaviour
 
             //take current position and initiate GunshotHit
 
-            Instantiate(GunshotHit, transform.position, transform.rotation);
+            Instantiate(AngelGunshotHitPrefab, transform.position, transform.rotation);
 
             //destroyes the gunshot
 
-            Destroy(gameObjecct);
+            Destroy(gameObject);
         }
     }
 
@@ -64,7 +64,7 @@ public class AngelGunshotHit : MonoBehaviour
     void OnTriggerStay2D(Collider2D other)
     {
 
-        if (other.gameObject.layer == LayerMask.NameToLayer("shootable"))
+        if (other.gameObject.layer == LayerMask.NameToLayer("Shootable"))
         {
 
             //stops  the gunshot
@@ -73,11 +73,11 @@ public class AngelGunshotHit : MonoBehaviour
 
             //take current position and initiate GunshotHit
 
-            Instantiate(GunshotHit, transform.position, transform.rotation);
+            Instantiate(AngelGunshotHitPrefab, transform.position, transform.rotation);
 
             //destroyes the gunshot
 
-            Destroy(gameObjecct);
+            Destroy(gameObject);
         }
     }
 

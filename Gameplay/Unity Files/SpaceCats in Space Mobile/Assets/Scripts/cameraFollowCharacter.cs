@@ -52,7 +52,7 @@ public class cameraFollowCharacter : MonoBehaviour
         transform.position = Vector3.Lerp (transform.position, targetCamPos, smoothing * Time.deltaTime);
 
 
-        // telling camera to not go down too far off screen
+        // telling camera to not go up or donwn off screen
 
         if (transform.position.y < lowY) transform.position = new Vector3 (transform.position.x, lowY, transform.position.z);
 

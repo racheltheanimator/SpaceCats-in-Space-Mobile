@@ -5,7 +5,7 @@ using UnityEngine;
 public class AngelGunshotHit : MonoBehaviour
 {
 
-    //how much damage the gunshon does to enemies
+    //how much damage the gunshot does to enemies
 
     public float weaponDamage;
 
@@ -37,11 +37,15 @@ public class AngelGunshotHit : MonoBehaviour
         
     }
 
+
+    //when bullet enters the 2D collider
+
+
     void onTriggerEnter2d(Collider2D other)
 
         //if object is set to layer name "shootable"
     {
-        if(other.gameObject.layer == LayerMask.NameToLayer("shootable"))
+        if(other.gameObject.layer == LayerMask.NameToLayer("Shootable"))
         {
 
             //stops  the gunshot
@@ -61,8 +65,14 @@ public class AngelGunshotHit : MonoBehaviour
 
     //safeguard if bullet is going too fast to make contact
 
+
+    //when bullet enters the 2D collider
+
+
     void OnTriggerStay2D(Collider2D other)
     {
+
+        //if object is set to layer name "shootable"
 
         if (other.gameObject.layer == LayerMask.NameToLayer("Shootable"))
         {

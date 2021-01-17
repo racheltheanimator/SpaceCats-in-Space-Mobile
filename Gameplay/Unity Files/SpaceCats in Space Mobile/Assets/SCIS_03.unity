@@ -1218,7 +1218,7 @@ Transform:
   - {fileID: 62481436}
   - {fileID: 55863193}
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &88056974
 GameObject:
@@ -1831,8 +1831,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 31919aef6cf864c1d8dd818e555156a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fullHealth: 0
-  deathFX: {fileID: 0}
+  fullHealth: 20
+  deathFX: {fileID: 6059973419500590386, guid: dd1c39f4207774d8f85f9fbc38ea5119, type: 3}
 --- !u!1 &166799958
 GameObject:
   m_ObjectHideFlags: 0
@@ -2466,7 +2466,7 @@ Transform:
   - {fileID: 580328036}
   - {fileID: 4295369}
   m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &260421680
 GameObject:
@@ -3299,6 +3299,8 @@ GameObject:
   - component: {fileID: 379122430}
   - component: {fileID: 379122429}
   - component: {fileID: 379122431}
+  - component: {fileID: 379122433}
+  - component: {fileID: 379122432}
   m_Layer: 8
   m_Name: 04_gemSpikey
   m_TagString: Untagged
@@ -3369,7 +3371,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!70 &379122431
 CapsuleCollider2D:
@@ -3381,12 +3383,48 @@ CapsuleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0.12, y: 0.09}
   m_Size: {x: 2.5, y: 6}
   m_Direction: 0
+--- !u!114 &379122432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 379122428}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1891f5ea1084c45838495ba2a69f03bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 5
+  damageRate: 0.5
+  pushBackForce: 0
+--- !u!50 &379122433
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 379122428}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 40
+  m_LinearDrag: 4
+  m_AngularDrag: 4
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &386534913
 GameObject:
   m_ObjectHideFlags: 0
@@ -4846,7 +4884,7 @@ Transform:
   - {fileID: 328114576}
   - {fileID: 11014610}
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &580328035
 GameObject:
@@ -4941,6 +4979,7 @@ GameObject:
   - component: {fileID: 581100780}
   - component: {fileID: 581100779}
   - component: {fileID: 581100778}
+  - component: {fileID: 581100781}
   m_Layer: 8
   m_Name: 04_gemDark
   m_TagString: Untagged
@@ -5027,8 +5066,29 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!50 &581100781
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 581100777}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 40
+  m_LinearDrag: 4
+  m_AngularDrag: 4
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &587829778
 GameObject:
   m_ObjectHideFlags: 0
@@ -5905,11 +5965,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 742412125}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 40.18, y: -1.82, z: 10.7}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_Father: {fileID: 884015352}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!70 &742412127
 CapsuleCollider2D:
@@ -5925,7 +5985,7 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: -0.05, y: 0}
-  m_Size: {x: 1.46, y: 2.7}
+  m_Size: {x: 1.01, y: 2.21}
   m_Direction: 0
 --- !u!1 &748018354
 GameObject:
@@ -6020,6 +6080,7 @@ GameObject:
   - component: {fileID: 748339478}
   - component: {fileID: 748339477}
   - component: {fileID: 748339476}
+  - component: {fileID: 748339479}
   m_Layer: 8
   m_Name: 02_gem
   m_TagString: Untagged
@@ -6106,8 +6167,29 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!50 &748339479
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 748339475}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 40
+  m_LinearDrag: 4
+  m_AngularDrag: 4
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &749051854
 GameObject:
   m_ObjectHideFlags: 0
@@ -6762,7 +6844,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 17
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &867610186
 GameObject:
@@ -6939,6 +7021,8 @@ GameObject:
   - component: {fileID: 884015352}
   - component: {fileID: 884015351}
   - component: {fileID: 884015353}
+  - component: {fileID: 884015354}
+  - component: {fileID: 884015355}
   m_Layer: 8
   m_Name: 03_gemSpikey
   m_TagString: Untagged
@@ -7007,7 +7091,8 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 40.18, y: -1.82, z: 10.7}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 742412126}
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -7025,8 +7110,44 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: -0.06, y: 0}
-  m_Size: {x: 1.58, y: 2.78}
+  m_Size: {x: 1.44, y: 2.68}
   m_Direction: 0
+--- !u!114 &884015354
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 884015350}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1891f5ea1084c45838495ba2a69f03bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 5
+  damageRate: 0.5
+  pushBackForce: 5
+--- !u!50 &884015355
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 884015350}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 40
+  m_LinearDrag: 4
+  m_AngularDrag: 4
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &889410225
 GameObject:
   m_ObjectHideFlags: 0
@@ -7366,6 +7487,8 @@ GameObject:
   - component: {fileID: 948237735}
   - component: {fileID: 948237734}
   - component: {fileID: 948237736}
+  - component: {fileID: 948237738}
+  - component: {fileID: 948237737}
   m_Layer: 8
   m_Name: 01_gemSpikey
   m_TagString: Untagged
@@ -7454,6 +7577,42 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0.12}
   serializedVersion: 2
   m_Radius: 0.99
+--- !u!50 &948237737
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 948237733}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 40
+  m_LinearDrag: 4
+  m_AngularDrag: 4
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &948237738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 948237733}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1891f5ea1084c45838495ba2a69f03bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 5
+  damageRate: 0.5
+  pushBackForce: 0
 --- !u!1 &949540270
 GameObject:
   m_ObjectHideFlags: 0
@@ -8046,7 +8205,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1040182315
 GameObject:
@@ -9061,7 +9220,7 @@ Transform:
   - {fileID: 2111521570}
   - {fileID: 1613453131}
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1285005728
 GameObject:
@@ -9639,7 +9798,7 @@ Transform:
   - {fileID: 1707233912}
   - {fileID: 1370410152}
   m_Father: {fileID: 0}
-  m_RootOrder: 18
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1391030802
 GameObject:
@@ -10446,7 +10605,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a515adbdb2d144d88a131b19059f86a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyMaxHealth: 80
+  enemyMaxHealth: 100
 --- !u!1 &1473940987
 GameObject:
   m_ObjectHideFlags: 0
@@ -12508,6 +12667,8 @@ GameObject:
   - component: {fileID: 1741221455}
   - component: {fileID: 1741221454}
   - component: {fileID: 1741221456}
+  - component: {fileID: 1741221458}
+  - component: {fileID: 1741221457}
   m_Layer: 8
   m_Name: 02_gemSpikey
   m_TagString: Untagged
@@ -12578,7 +12739,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!70 &1741221456
 CapsuleCollider2D:
@@ -12596,6 +12757,42 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0}
   m_Size: {x: 2.49, y: 3.85}
   m_Direction: 0
+--- !u!114 &1741221457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1741221453}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1891f5ea1084c45838495ba2a69f03bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 5
+  damageRate: 0.5
+  pushBackForce: 0
+--- !u!50 &1741221458
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1741221453}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 40
+  m_LinearDrag: 4
+  m_AngularDrag: 4
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1762905301
 GameObject:
   m_ObjectHideFlags: 0
@@ -13770,7 +13967,7 @@ Transform:
   - {fileID: 934370580}
   - {fileID: 1610145715}
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2000574762
 GameObject:

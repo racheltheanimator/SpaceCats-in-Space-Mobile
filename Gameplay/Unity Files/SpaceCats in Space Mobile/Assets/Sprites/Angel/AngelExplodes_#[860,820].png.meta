@@ -1,0 +1,838 @@
+fileFormatVersion: 2
+guid: 9f24b7016e5db487ea6902a2585d8233
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4257189648484877806
+    second: AngelExplodes_#[860,820]_0
+  - first:
+      213: -2126471562724844737
+    second: AngelExplodes_#[860,820]_1
+  - first:
+      213: 7716925989383145596
+    second: AngelExplodes_#[860,820]_2
+  - first:
+      213: -1921789077542530295
+    second: AngelExplodes_#[860,820]_3
+  - first:
+      213: -510757979325801713
+    second: AngelExplodes_#[860,820]_4
+  - first:
+      213: -6624154267711376876
+    second: AngelExplodes_#[860,820]_5
+  - first:
+      213: -4009030109786140845
+    second: AngelExplodes_#[860,820]_6
+  - first:
+      213: 5384576665505413154
+    second: AngelExplodes_#[860,820]_7
+  - first:
+      213: -6878439057907908020
+    second: AngelExplodes_#[860,820]_8
+  - first:
+      213: 6417761460320298001
+    second: AngelExplodes_#[860,820]_9
+  - first:
+      213: 7508686395236762279
+    second: AngelExplodes_#[860,820]_10
+  - first:
+      213: -1587466250588170100
+    second: AngelExplodes_#[860,820]_11
+  - first:
+      213: 9046563676636503528
+    second: AngelExplodes_#[860,820]_12
+  - first:
+      213: 2716863130726523830
+    second: AngelExplodes_#[860,820]_13
+  - first:
+      213: -5590164703193934797
+    second: AngelExplodes_#[860,820]_14
+  - first:
+      213: -2867423103989737863
+    second: AngelExplodes_#[860,820]_15
+  - first:
+      213: -3632381583674162199
+    second: AngelExplodes_#[860,820]_16
+  - first:
+      213: -228731423012830566
+    second: AngelExplodes_#[860,820]_17
+  - first:
+      213: 4163061918550971392
+    second: AngelExplodes_#[860,820]_18
+  - first:
+      213: 2068578708129974441
+    second: AngelExplodes_#[860,820]_19
+  - first:
+      213: -1656314703760601438
+    second: AngelExplodes_#[860,820]_20
+  - first:
+      213: 8678036763661632538
+    second: AngelExplodes_#[860,820]_21
+  - first:
+      213: 3431791494826991910
+    second: AngelExplodes_#[860,820]_22
+  - first:
+      213: -5391224590782749538
+    second: AngelExplodes_#[860,820]_23
+  - first:
+      213: -2695747388015349898
+    second: AngelExplodes_#[860,820]_24
+  - first:
+      213: 3364326398478118294
+    second: AngelExplodes_#[860,820]_25
+  - first:
+      213: -3594628900446256502
+    second: AngelExplodes_#[860,820]_26
+  - first:
+      213: 840601972089958094
+    second: AngelExplodes_#[860,820]_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4100
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee549630e63941b30800000000000000
+      internalID: 4257189648484877806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_1
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 4100
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bd0d651614d72e0800000000000000
+      internalID: -2126471562724844737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_2
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 4100
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7889232d47081b60800000000000000
+      internalID: 7716925989383145596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_3
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 4100
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9031adb140f6455e0800000000000000
+      internalID: -1921789077542530295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_4
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 4100
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bd61ce25c69e8f0800000000000000
+      internalID: -510757979325801713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3280
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412fcaf2ac64214a0800000000000000
+      internalID: -6624154267711376876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_6
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 3280
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f0a5c1b501d58c0800000000000000
+      internalID: -4009030109786140845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_7
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 3280
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228be45d2fbd9ba40800000000000000
+      internalID: 5384576665505413154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_8
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 3280
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c420a30de10ea80a0800000000000000
+      internalID: -6878439057907908020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_9
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 3280
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114659f9b08701950800000000000000
+      internalID: 6417761460320298001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2460
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a245e56e76343860800000000000000
+      internalID: 7508686395236762279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_11
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2460
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8855c81bdf28f9e0800000000000000
+      internalID: -1587466250588170100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_12
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 2460
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eddedfabb9db8d70800000000000000
+      internalID: 9046563676636503528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_13
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 2460
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b36f427f9c34b520800000000000000
+      internalID: 2716863130726523830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_14
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 2460
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334d23602debb62b0800000000000000
+      internalID: -5590164703193934797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1640
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97691f111edd438d0800000000000000
+      internalID: -2867423103989737863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_16
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1640
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e34e60e130379dc0800000000000000
+      internalID: -3632381583674162199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_17
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1640
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92c95e8bf163dcf0800000000000000
+      internalID: -228731423012830566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_18
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1640
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004df2112ca26c930800000000000000
+      internalID: 4163061918550971392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_19
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 1640
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a80600106115bc10800000000000000
+      internalID: 2068578708129974441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aec71e6d869309e0800000000000000
+      internalID: -1656314703760601438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_21
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 820
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1405d555749e6870800000000000000
+      internalID: 8678036763661632538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_22
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 820
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621ae50ae2c20af20800000000000000
+      internalID: 3431791494826991910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_23
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 820
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e942b027cc58e25b0800000000000000
+      internalID: -5391224590782749538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_24
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 820
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f68258808c69ad0800000000000000
+      internalID: -2695747388015349898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69de1c1d80d70be20800000000000000
+      internalID: 3364326398478118294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_26
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 0
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a824c896f005d1ec0800000000000000
+      internalID: -3594628900446256502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelExplodes_#[860,820]_27
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 0
+        width: 860
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece2ae73a0b6aab00800000000000000
+      internalID: 840601972089958094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

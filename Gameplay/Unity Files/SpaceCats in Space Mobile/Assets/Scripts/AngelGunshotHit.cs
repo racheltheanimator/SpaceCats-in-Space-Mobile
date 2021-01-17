@@ -59,11 +59,34 @@ public class AngelGunshotHit : MonoBehaviour
             //destroyes the gunshot
 
             Destroy(gameObject);
+
+            // if the tag is Enemy
+
+            if(other.tag == "Enemy")
+            {
+
+                // get the script reference "enemyHealth"
+
+                enemyHealth hurtEnemy = other.gameObject.GetComponent<enemyHealth>();
+
+                //add weapon damage
+
+                hurtEnemy.addDamage(weaponDamage);
+            }
         }
     }
 
 
+
+
+
+
     //safeguard if bullet is going too fast to make contact
+
+
+
+
+
 
 
     //when bullet enters the 2D collider
@@ -88,6 +111,20 @@ public class AngelGunshotHit : MonoBehaviour
             //destroyes the gunshot
 
             Destroy(gameObject);
+
+            // if the tag is Enemy
+
+            if (other.tag == "Enemy")
+            {
+
+                // get the script reference "enemyHealth"
+
+                enemyHealth hurtEnemy = other.gameObject.GetComponent<enemyHealth>();
+
+                //add weapon damage
+
+                hurtEnemy.addDamage(weaponDamage);
+            }
         }
     }
 

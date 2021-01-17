@@ -251,5 +251,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e52f18386f0c448d8f9c996d81e487e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  weaponDamage: 0
+  weaponDamage: 10
   AngelGunshotHitPrefab: {fileID: 4640224860856408141, guid: 39b79960a4d3243049ea81238e018987, type: 3}

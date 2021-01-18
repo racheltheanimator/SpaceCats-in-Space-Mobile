@@ -60,9 +60,10 @@ GameObject:
   - component: {fileID: 4496196358861530782}
   - component: {fileID: 4496196358861530780}
   - component: {fileID: 4496196358861530781}
+  - component: {fileID: -197154461940196450}
   m_Layer: 8
   m_Name: 03_gemSpikey
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -185,3 +186,16 @@ MonoBehaviour:
   damage: 5
   damageRate: 0.5
   pushBackForce: 5
+--- !u!114 &-197154461940196450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4496196358861530769}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a515adbdb2d144d88a131b19059f86a1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemyMaxHealth: 100

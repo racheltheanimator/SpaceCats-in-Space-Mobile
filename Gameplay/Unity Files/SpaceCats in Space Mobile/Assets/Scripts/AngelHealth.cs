@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class AngelHealth : MonoBehaviour
 {
@@ -23,6 +24,11 @@ public class AngelHealth : MonoBehaviour
     PlayerController controlMovement;
 
 
+    //HUD Variables
+
+    public Slider healthSlider;
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -33,6 +39,14 @@ public class AngelHealth : MonoBehaviour
         // getting the PlayerController script
 
         controlMovement = GetComponent<PlayerController>();
+
+        //HUD initilization
+
+        healthSlider.maxValue = fullHealth;
+
+        // new HUD value is all the way full
+
+        healthSlider.value = fullHealth;
 
     }
 
@@ -49,6 +63,13 @@ public class AngelHealth : MonoBehaviour
         //current health is equal to current health minus damage
 
         currentHealth -= damage;
+
+
+        // ajust health slider to show damage
+
+        healthSlider.value = currentHealth;
+
+
 
         // if current health is 0 or less, make dead
 

@@ -5,6 +5,8 @@ using UnityEngine;
 public class EnemyDamage : MonoBehaviour
 {
 
+ 
+
     // the amount of damage the enemy can do
 
     public float damage;
@@ -17,6 +19,15 @@ public class EnemyDamage : MonoBehaviour
 
     float nextDamage;
 
+    // knockback duration and power
+
+    public float knockbackDuration = 1;
+
+    public float knockbackPower = 100;
+
+        
+
+
 
 
 
@@ -27,6 +38,7 @@ public class EnemyDamage : MonoBehaviour
         // next damage to the character can occur imediattley
 
         nextDamage = 0f;
+        
 
     }
 
@@ -58,11 +70,21 @@ public class EnemyDamage : MonoBehaviour
 
             nextDamage = Time.time + damageRate;
 
-            // pushing back the players transform
-
+            
            
         }
+
+
+        //knokback script
+
+        if (other.tag == "Player")
+        {
+            StartCoroutine(PlayerController.instace.Knockback(knockbackDuration, knockbackPower, this.transform));
+        }
+
     }
+
+   
 
 
 

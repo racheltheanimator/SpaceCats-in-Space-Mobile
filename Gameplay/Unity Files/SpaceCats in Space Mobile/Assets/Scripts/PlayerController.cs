@@ -5,6 +5,11 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
 
+    // making this script and instace (for other scripts)
+
+    public static PlayerController instace;
+
+
     //movement variables
 
     public float maxSpeed;
@@ -12,6 +17,22 @@ public class PlayerController : MonoBehaviour
     Rigidbody2D myRB;
 
     Vector2 movement;
+
+
+
+
+
+
+
+
+
+    // naming the instance of this script "this" (for other scripts)
+
+    private void Awake()
+    {
+        instace = this;
+    }
+
 
 
     // Use this for initialization
@@ -45,7 +66,29 @@ public class PlayerController : MonoBehaviour
 
         myRB.velocity = new Vector2(x, y)*maxSpeed; }
 
-    
+
+
+
+
+    // knockback code
+
+
+
+    public IEnumerator Knockback(float knockbackDuration, float knockbackPower, Transform obj)
+    {
+        float timer = 0;
+
+        while (knockbackDuration > timer)
+        {
+            timer += Time.deltaTime;
+            Vector2 direction = (obj.transform.position - this.transform.position).normalized;
+            myRB.AddForce(-direction * knockbackPower);
+        }
+
+        yield return 0;
+
+    }
+
 
 
 }

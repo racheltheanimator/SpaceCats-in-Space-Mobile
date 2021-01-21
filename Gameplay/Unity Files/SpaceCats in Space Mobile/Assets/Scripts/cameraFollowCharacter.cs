@@ -42,21 +42,37 @@ public class cameraFollowCharacter : MonoBehaviour
     void FixedUpdate()
     {
 
-        // aim position based on the offset
-
-        Vector3 targetCamPos = target.position + offset;
+        // if the target is not destroyed (Angel dies)
 
 
-        // lerp is easing, Vector 3 in xyz position with smoothing x time in seconds to commpllete the last frame
+        if(target != null)
+        {
 
-        transform.position = Vector3.Lerp (transform.position, targetCamPos, smoothing * Time.deltaTime);
+            // aim position based on the offset
+
+            Vector3 targetCamPos = target.position + offset;
 
 
-        // telling camera to not go up or donwn off screen
+            // lerp is easing, Vector 3 in xyz position with smoothing x time in seconds to commpllete the last frame
 
-        if (transform.position.y < lowY) transform.position = new Vector3 (transform.position.x, lowY, transform.position.z);
+            transform.position = Vector3.Lerp(transform.position, targetCamPos, smoothing * Time.deltaTime);
 
-        if (transform.position.y > highY) transform.position = new Vector3(transform.position.x, highY, transform.position.z);
+
+            // telling camera to not go up or donwn off screen
+
+            if (transform.position.y < lowY) transform.position = new Vector3(transform.position.x, lowY, transform.position.z);
+
+            if (transform.position.y > highY) transform.position = new Vector3(transform.position.x, highY, transform.position.z);
+
+
+
+        }
+
+       
 
     }
+
+   
+
+
 }

@@ -13,10 +13,6 @@ public class EnemyDamage : MonoBehaviour
 
     public float damageRate;
 
-    // the force pushing character off the enemy
-
-    public float pushBackForce;
-
     // when can the next damage be done
 
     float nextDamage;
@@ -64,35 +60,10 @@ public class EnemyDamage : MonoBehaviour
 
             // pushing back the players transform
 
-            pushBack(other.transform);
+           
         }
     }
 
-
-    void pushBack(Transform pushedObject)
-    {
-
-        // the vecor direction of the push is oposite from the object
-
-        Vector2 pushDirection = new Vector2(0,(pushedObject.position.y - transform.position.y)).normalized;
-
-        // multiply by pushback force
-
-        pushDirection *= pushBackForce;
-
-        // found rigid body of pushed object
-
-        Rigidbody2D pushRB = pushedObject.gameObject.GetComponent<Rigidbody2D>();
-
-        // all forces affecting payer are sert to zero
-
-        pushRB.velocity = Vector2.zero;
-
-        //  then we add the force as an explosive force
-
-        pushRB.AddForce(pushDirection, ForceMode2D.Impulse);
-
-    }
 
 
 }

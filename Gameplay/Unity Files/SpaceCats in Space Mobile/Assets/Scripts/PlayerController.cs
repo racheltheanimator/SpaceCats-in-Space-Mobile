@@ -5,10 +5,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
 
-    // making this script and instace (for other scripts)
-
-    public static PlayerController instace;
-
+    
 
     //movement variables
 
@@ -20,18 +17,6 @@ public class PlayerController : MonoBehaviour
 
 
 
-
-
-
-
-
-
-    // naming the instance of this script "this" (for other scripts)
-
-    private void Awake()
-    {
-        instace = this;
-    }
 
 
 
@@ -69,25 +54,6 @@ public class PlayerController : MonoBehaviour
 
 
 
-
-    // knockback code
-
-
-
-    public IEnumerator Knockback(float knockbackDuration, float knockbackPower, Transform obj)
-    {
-        float timer = 0;
-
-        while (knockbackDuration > timer)
-        {
-            timer += Time.deltaTime;
-            Vector2 direction = (obj.transform.position - this.transform.position).normalized;
-            myRB.AddForce(-direction * knockbackPower);
-        }
-
-        yield return 0;
-
-    }
 
 
 

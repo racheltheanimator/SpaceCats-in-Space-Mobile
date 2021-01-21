@@ -1716,6 +1716,7 @@ GameObject:
   - component: {fileID: 147176560}
   - component: {fileID: 147176561}
   - component: {fileID: 147176562}
+  - component: {fileID: 147176563}
   m_Layer: 0
   m_Name: angelSprite
   m_TagString: Player
@@ -1904,6 +1905,21 @@ MonoBehaviour:
   fullHealth: 20
   deathFX: {fileID: 6059973419500590386, guid: dd1c39f4207774d8f85f9fbc38ea5119, type: 3}
   healthSlider: {fileID: 276279041}
+--- !u!111 &147176563
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 147176553}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 0}
+  m_Animations: []
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!4 &157615164 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4496196358861530783, guid: 6c02387eb415a4263b5ea82ab3bd6264, type: 3}
@@ -17250,7 +17266,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4496196358861530781, guid: 6c02387eb415a4263b5ea82ab3bd6264, type: 3}
       propertyPath: knockbackPower
-      value: 10
+      value: 70
       objectReference: {fileID: 0}
     - target: {fileID: 4496196358861530781, guid: 6c02387eb415a4263b5ea82ab3bd6264, type: 3}
       propertyPath: knockbackDuration

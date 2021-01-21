@@ -19,12 +19,7 @@ public class EnemyDamage : MonoBehaviour
 
     float nextDamage;
 
-    // knockback duration and power
-
-    public float knockbackDuration = 1;
-
-    public float knockbackPower = 100;
-
+   
         
 
 
@@ -74,13 +69,6 @@ public class EnemyDamage : MonoBehaviour
            
         }
 
-
-        //knokback script
-
-        if (other.tag == "Player")
-        {
-            StartCoroutine(PlayerController.instace.Knockback(knockbackDuration, knockbackPower, this.transform));
-        }
 
     }
 

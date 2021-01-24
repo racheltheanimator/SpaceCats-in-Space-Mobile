@@ -56,13 +56,21 @@ public class AngelHealth : MonoBehaviour
         
     }
 
+
+    //if damage is added
+
+
     public void addDamage(float damage)
     {
         if (damage<= 0) return;
 
-        //current health is equal to current health minus damage
+        //when current health is equal to current health minus damage
 
         currentHealth -= damage;
+
+        // get angel flash red aimation
+
+        gameObject.GetComponent<Animation>().Play("angelFlashRed");
 
 
         // ajust health slider to show damage

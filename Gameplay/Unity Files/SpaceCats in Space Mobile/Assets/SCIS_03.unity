@@ -1737,7 +1737,7 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.12, y: 0.03}
+  m_Offset: {x: 0.36, y: 0.03}
   m_Size: {x: 1.94, y: 2.91}
   m_Direction: 0
 --- !u!58 &147176555
@@ -1753,7 +1753,7 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.65, y: 1.81}
+  m_Offset: {x: 1.07, y: 1.81}
   serializedVersion: 2
   m_Radius: 0.51
 --- !u!50 &147176556
@@ -1951,7 +1951,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 166799958}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.58, y: 0.96, z: 0}
+  m_LocalPosition: {x: 2.64, y: 0.9, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 147176559}
@@ -10053,6 +10053,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1332328543}
   - component: {fileID: 1332328544}
+  - component: {fileID: 1332328545}
   m_Layer: 0
   m_Name: Angel
   m_TagString: Untagged
@@ -10126,6 +10127,25 @@ SpriteRenderer:
   m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &1332328545
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1332328542}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 789d6a0ce4c53488e9e6b80d21f81436, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1360163771
 GameObject:
   m_ObjectHideFlags: 0
@@ -11764,7 +11784,7 @@ Animator:
   m_GameObject: {fileID: 1543888962}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: f52697eb566954634a1a07241fae8511, type: 2}
+  m_Controller: {fileID: 9100000, guid: 1719e41f06c6f4605bc0e3cb3ffef8b2, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -11812,7 +11832,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -2
   m_Sprite: {fileID: 4765762634758542972, guid: b2dd1ab8056ca4390a7113466b7667f2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -16840,7 +16860,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -2
   m_Sprite: {fileID: 4168836187666748968, guid: 8c8db885182764f38bf207bf30f745dc, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

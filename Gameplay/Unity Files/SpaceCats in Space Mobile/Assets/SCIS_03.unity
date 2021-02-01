@@ -1859,8 +1859,8 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 166799959}
+  - {fileID: 2106158295}
   - {fileID: 571486562}
-  - {fileID: 1767540657}
   m_Father: {fileID: 1332328543}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -5109,7 +5109,7 @@ Transform:
   m_LocalScale: {x: 1.5, y: 1.5, z: 1}
   m_Children: []
   m_Father: {fileID: 147176559}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &571486563
 SpriteRenderer:
@@ -6056,7 +6056,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5508435791044113837, guid: 98a7f6dc4b59e448e8a3126201ba6187, type: 3}
       propertyPath: damage
-      value: 2
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5508435791044113837, guid: 98a7f6dc4b59e448e8a3126201ba6187, type: 3}
       propertyPath: damageRate
@@ -7827,7 +7827,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3570822444515970534, guid: 6b6b7cacdbf1646898d88ee75ee39067, type: 3}
       propertyPath: damage
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 3570822444515970534, guid: 6b6b7cacdbf1646898d88ee75ee39067, type: 3}
       propertyPath: damageRate
@@ -9452,7 +9452,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1901721462003647640, guid: f270c806c03d644f3b88704d63116760, type: 3}
       propertyPath: damage
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1901721462003647640, guid: f270c806c03d644f3b88704d63116760, type: 3}
       propertyPath: damageRate
@@ -11756,108 +11756,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1543888962
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1543888965}
-  - component: {fileID: 1543888964}
-  - component: {fileID: 1543888963}
-  m_Layer: 0
-  m_Name: angelArmShooting_#[650,350]_0
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!95 &1543888963
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1543888962}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 1719e41f06c6f4605bc0e3cb3ffef8b2, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
---- !u!212 &1543888964
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1543888962}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: -2
-  m_Sprite: {fileID: 4765762634758542972, guid: b2dd1ab8056ca4390a7113466b7667f2, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 6.5, y: 3.5}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!4 &1543888965
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1543888962}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.71, y: 0.14000005, z: 0}
-  m_LocalScale: {x: 0.55, y: 0.55, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1767540657}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1544773685
 GameObject:
   m_ObjectHideFlags: 0
@@ -14093,38 +13991,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5508435791044113491, guid: 98a7f6dc4b59e448e8a3126201ba6187, type: 3}
   m_PrefabInstance: {fileID: 685911738}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1767540656
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1767540657}
-  m_Layer: 0
-  m_Name: armObject
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1767540657
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1767540656}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.03, y: 1.06, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 2106158295}
-  - {fileID: 1543888965}
-  m_Father: {fileID: 147176559}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1771641409
 GameObject:
   m_ObjectHideFlags: 0
@@ -16796,7 +16662,7 @@ GameObject:
   - component: {fileID: 2106158294}
   - component: {fileID: 2106158293}
   m_Layer: 0
-  m_Name: angelArmStill_#[650,350]_0
+  m_Name: angelArmStill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16860,7 +16726,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -2
+  m_SortingOrder: -1
   m_Sprite: {fileID: 4168836187666748968, guid: 8c8db885182764f38bf207bf30f745dc, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -16880,11 +16746,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2106158292}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.71, y: 0.14000005, z: 0}
+  m_LocalPosition: {x: 1.74, y: 1.2, z: 0}
   m_LocalScale: {x: 0.55, y: 0.55, z: 1}
   m_Children: []
-  m_Father: {fileID: 1767540657}
-  m_RootOrder: 0
+  m_Father: {fileID: 147176559}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2111521569
 GameObject:
@@ -17178,7 +17044,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1901721462003647640, guid: f270c806c03d644f3b88704d63116760, type: 3}
       propertyPath: damage
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1901721462003647640, guid: f270c806c03d644f3b88704d63116760, type: 3}
       propertyPath: damageRate
@@ -17435,7 +17301,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3570822444515970534, guid: 6b6b7cacdbf1646898d88ee75ee39067, type: 3}
       propertyPath: damage
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 3570822444515970534, guid: 6b6b7cacdbf1646898d88ee75ee39067, type: 3}
       propertyPath: damageRate
@@ -17641,7 +17507,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5508435791044113837, guid: 98a7f6dc4b59e448e8a3126201ba6187, type: 3}
       propertyPath: damage
-      value: 2
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5508435791044113837, guid: 98a7f6dc4b59e448e8a3126201ba6187, type: 3}
       propertyPath: damageRate

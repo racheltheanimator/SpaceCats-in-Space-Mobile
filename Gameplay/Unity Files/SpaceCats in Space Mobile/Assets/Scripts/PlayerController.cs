@@ -15,13 +15,6 @@ public class PlayerController : MonoBehaviour
 
     Vector2 movement;
 
-    //setting recoil
-
-    [HideInInspector]
-    public Vector2 recoil = Vector2.zero;
-
-
-
 
     // Use this for initialization
 
@@ -49,7 +42,7 @@ public class PlayerController : MonoBehaviour
 
         // Angel movement, rigidbody velocity is movement vector for x and y x maxspeed
 
-        float x = Input.GetAxis(("Horizontal") * maxSpeed+recoil.x, rigidbody2D.velocity.y+recoil.y);
+        float x = Input.GetAxis("Horizontal");
         float y = Input.GetAxis("Vertical");
 
         myRB.velocity = new Vector2(x, y)*maxSpeed; }

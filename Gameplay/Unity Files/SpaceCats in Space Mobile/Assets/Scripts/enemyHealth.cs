@@ -5,15 +5,24 @@ using UnityEngine;
 public class enemyHealth : MonoBehaviour
 {
 
+
+
     // max health the enemy can have
 
 
     public float enemyMaxHealth;
 
+
+    //game object is called EnemyDeathFX
+
+    public GameObject EnemydeathFX;
+
+
     // current health of the enemy
 
     float currentHealth;
 
+   
 
 
 
@@ -47,18 +56,36 @@ public class enemyHealth : MonoBehaviour
         // if current heallth is at zero, make the enemy dead
 
         if (currentHealth <= 0) makeDead();
+
+        // if current heallth is at zero, play gem explode
+
+
+        
     }
+
+
+   
+
 
     void makeDead()
     {
+
+
+        // play gem explosio effect
+
+
+        Instantiate(EnemydeathFX, transform.position, transform.rotation);
+
+
+        // destroy enemy
+
+
         Destroy(gameObject);
 
 
         // animation, sound, drop somethiing goes here
 
 
-
-        // destroy the enemy
 
 
     }

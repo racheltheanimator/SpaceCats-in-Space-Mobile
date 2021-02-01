@@ -93,6 +93,7 @@ public class AngelHealth : MonoBehaviour
     public void makeDead()
     {
         Instantiate(deathFX, transform.position, transform.rotation);
+       
 
         // destroys player
 

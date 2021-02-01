@@ -183,3 +183,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyMaxHealth: 100
+  EnemydeathFX: {fileID: 8188770426868443084, guid: b6050d733c5514cb9b7aa1804f5ce58f, type: 3}

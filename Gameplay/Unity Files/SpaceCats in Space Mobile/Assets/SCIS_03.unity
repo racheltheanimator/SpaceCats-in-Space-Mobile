@@ -11199,7 +11199,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyMaxHealth: 100
-  EnemydeathFX: {fileID: 0}
+  EnemydeathFX: {fileID: 6059973419500590386, guid: dd1c39f4207774d8f85f9fbc38ea5119, type: 3}
 --- !u!1 &1472495940
 GameObject:
   m_ObjectHideFlags: 0

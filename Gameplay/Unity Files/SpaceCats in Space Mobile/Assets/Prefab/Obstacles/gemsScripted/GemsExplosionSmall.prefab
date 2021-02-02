@@ -4902,7 +4902,7 @@ GameObject:
   - component: {fileID: 8188770426868443086}
   - component: {fileID: 8188770426868443087}
   m_Layer: 0
-  m_Name: GemsExplosionBig
+  m_Name: GemsExplosionSmall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4917,7 +4917,7 @@ Transform:
   m_GameObject: {fileID: 8188770426868443084}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 4.76, y: 0.8, z: 10.7}
-  m_LocalScale: {x: 0.9, y: 0.9, z: 1}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children:
   - {fileID: 8188770426808985346}
   m_Father: {fileID: 0}
@@ -4964,7 +4964,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: -1
   m_Sprite: {fileID: -1815701634278003395, guid: 80d431d5b57214f298091de83480cab3, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.7783019, g: 0.82638097, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0

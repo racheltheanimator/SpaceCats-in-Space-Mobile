@@ -10,23 +10,41 @@ public class AngelHealth : MonoBehaviour
 
     public float fullHealth;
 
-    //game object is Angel Explosion clled DeathFX
-
-    public GameObject deathFX;
-
     // curent health of character
 
     float currentHealth;
 
+    //game object is Angel Explosion clled DeathFX
+
+    public GameObject deathFX;
+
     // Player Controller script called controlMovement
 
-
     PlayerController controlMovement;
-
 
     //HUD Variables
 
     public Slider healthSlider;
+
+    // HUD damage screen for when angel gets hurt
+
+    public Image damageScreen;
+
+    // HUD bool for on / off damage
+
+    bool damaged = false;
+
+    // damage screen color and alpha
+
+    Color damagedColor = new Color(0f, 0f, 0f, 0.4f);
+
+    // smoothing animatin of damage screen coor
+
+    float smoothColor = 5f;
+
+
+
+
 
 
     // Start is called before the first frame update
@@ -48,12 +66,35 @@ public class AngelHealth : MonoBehaviour
 
         healthSlider.value = fullHealth;
 
+        // damaged is false
+
+        damaged = false;
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
+        // if Angel is Damaged, show the damage screen at full color
+
+        if (damaged)
+        {
+            damageScreen.color = damagedColor;
+        }
+
+        /// animation of screen alpha
+
+        else
+        {
+            damageScreen.color = Color.Lerp(damageScreen.color, Color.clear, smoothColor*Time.deltaTime); 
+        }
+
+        // tur damage back to false / alpha is 0
+
+        damaged = false;
+
+
     }
 
 
@@ -67,6 +108,10 @@ public class AngelHealth : MonoBehaviour
         //when current health is equal to current health minus damage
 
         currentHealth -= damage;
+
+        // damaged is true
+
+        damaged = true;
 
         // get angel flash red aimation
 

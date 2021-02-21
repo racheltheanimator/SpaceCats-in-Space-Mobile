@@ -10,6 +10,15 @@
 [Ll]ogs/
 [Mm]emoryCaptures/
 
+Gameplay/Unity Files/SpaceCats in Space Mobile/[Tt]emp/
+
+Gameplay/Unity Files/SpaceCats in Space Mobile/[Oo]bj/
+Gameplay/Unity Files/SpaceCats in Space Mobile/[Bb]uild
+Gameplay/Unity Files/SpaceCats in Space Mobile/[Bb]uilds
+Gameplay/Unity Files/SpaceCats in Space Mobile/[Ll]ibrary
+Gameplay/Unity Files/SpaceCats in Space Mobile/[Ll]ibrary/
+Gameplay/Unity Files/SpaceCats in Space Mobile/[Ll]ibrary-*/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 

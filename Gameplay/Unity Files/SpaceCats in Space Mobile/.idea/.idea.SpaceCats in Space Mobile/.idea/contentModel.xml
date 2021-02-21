@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\alexa\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\alexa\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_SpaceCats in Space Mobile.-1795179860.00" t="ExcludeRecursive" />
+    <e p="D:\PersonalDev\SpaceCatsR\Gameplay\Unity Files\SpaceCats in Space Mobile" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="BlendModes" t="Include">
+          <e p="Editor" t="Include">
+            <e p="Elringus.BlendModes.Editor.asmdef" t="Include" />
+            <e p="ExtensionFile.cs" t="Include" />
+            <e p="ExtensionPackage.cs" t="Include" />
+            <e p="ExtensionSources.cs" t="Include" />
+            <e p="PackagePath.cs" t="Include" />
+            <e p="ShaderPropertiesList.cs" t="Include" />
+          </e>
+          <e p="Runtime" t="Include">
+            <e p="Elringus.BlendModes.Runtime.asmdef" t="Include" />
+            <e p="ShaderProperty.cs" t="Include" />
+            <e p="ShaderPropertyType.cs" t="Include" />
+            <e p="ShaderResources.cs" t="Include" />
+            <e p="ShaderUtilities.cs" t="Include" />
+            <e p="SharedMaterials.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="BlendFunctions.cginc" t="Include" />
+            <e p="BlendModesCG.cginc" t="Include" />
+          </e>
+        </e>
+        <e p="Materials" t="Include">
+          <e p="redBlinkShader.shader" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AngelFireGunAnimation.cs" t="Include" />
+          <e p="AngelGun.cs" t="Include" />
+          <e p="AngelGunshotDestroyed.cs" t="Include" />
+          <e p="AngelGunshotHit.cs" t="Include" />
+          <e p="AngelGunshotProjectileCotroller.cs" t="Include" />
+          <e p="AngelHealth.cs" t="Include" />
+          <e p="cameraFollowCharacter.cs" t="Include" />
+          <e p="EnemyDamage.cs" t="Include" />
+          <e p="enemyHealth.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Elringus.BlendModes.Editor.csproj" t="IncludeRecursive" />
+      <e p="Elringus.BlendModes.Runtime.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="SpaceCats in Space Mobile.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
